@@ -1,0 +1,148 @@
+#mi-logo {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    color: red;
+    font-size: 50px;
+    
+}
+
+#mi-boton2 {
+position: absolute; /* Establecer el botón como posición absoluta con respecto al contenedor */
+top: 775px; /* Posición vertical desde la parte superior del contenedor */
+left: 840px; /* Posición horizontal desde la parte izquierda del contenedor */
+background-color: red; 
+color: white;
+padding: 10px 20px;
+border: none;
+
+}
+
+#mi-boton1 {
+position: absolute; /* Establecer el botón como posición absoluta con respecto al contenedor */
+top: 775px; /* Posición vertical desde la parte superior del contenedor */
+left: 640px; /* Posición horizontal desde la parte izquierda del contenedor */
+background-color: red; 
+color: white;
+padding: 10px 20px;
+border: none;
+
+}
+
+#mi-boton {
+position: absolute; /* Establecer el botón como posición absoluta con respecto al contenedor */
+top: 775px; /* Posición vertical desde la parte superior del contenedor */
+left: 440px; /* Posición horizontal desde la parte izquierda del contenedor */
+background-color: red; 
+color: white;
+padding: 10px 20px;
+border: none;
+
+}
+
+    #text-6 {
+        position: absolute;
+        top: 590px;
+        left: 820px;
+        color: whitesmoke;
+        font-weight: bold;
+    }
+
+#text-5 {
+
+position: absolute;
+top: 590px;
+left: 620px;
+color: whitesmoke;
+font-weight: bold;
+}
+
+
+#text-4 {
+position: absolute;
+top: 590px;
+left: 420px;
+color: whitesmoke;
+font-weight: bold;
+}
+
+#text {
+    position: absolute;
+    top: 740px;
+    left: 400px;
+    color: whitesmoke;
+    font-weight: bold;
+    
+}
+#text-2 {
+    position: absolute;
+    top: 740px;
+    left: 600px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+#text-3 {
+    position: absolute;
+    top: 740px;
+    left: 800px;color: whitesmoke;
+    font-weight: bold;
+}
+
+
+#caat {
+    position: absolute;
+    top: 0px;
+    left: 600px;
+    color: whitesmoke;
+    font-weight: bold;
+    
+}
+
+
+
+    #image {
+        width: 125px;
+        height: 125px;
+        position: absolute;
+        top: 630px;
+        left: 400px;
+    }
+
+    #image-2 {
+        width: 125px;
+        position: absolute;
+        top: 630px;
+        left: 600px;
+height: none;
+
+    }
+
+    #image-3 {
+        width: 125px;
+        height: 125px;
+        position: absolute;
+        top: 630px;
+        left: 800px;
+    }
+
+    #XXX{
+        padding: 10px;
+        border: none;
+        border-radius: 10px;
+    }
+
+    #video {
+        border-radius: 30px;
+        height: 400px;
+        width: 1000px;
+        position: absolute;
+        top: 150px;
+        left: 130px;
+    }
+
+    #XXX {
+        background-color: red;
+        color: azure;
+    }
+
